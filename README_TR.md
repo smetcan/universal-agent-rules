@@ -60,6 +60,8 @@ Göz atmak isteyenler için dokümanların özeti ve ajana koyduğu ana kısıtl
 
 - **Temiz Günlük:** Sadece anlamlı geliştirmeleri kaydeder; sıradan dosya okumalarını veya aramaları loga yazmaz.
 
+**Not:** `UNIVERSAL_RULES.md` dokümanı `16.3` maddesinde `DEVELOPMENT_LOG.md` dsoyasının yazım dili varsayılan olarak **Türkçe** tanımlanmıştır. Tercihinize göre değiştiriniz.
+
 ## Dürüst Olmak Gerekirse: Kısıtlamaları ve Eksi Yönleri
 
 Bu sistem her ne kadar işlerimi çok rahatlatsa da gümüş kurşun değil. Kullanırken yaşadığım bazı dezavantajları şunlar:
