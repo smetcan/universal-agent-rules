@@ -60,6 +60,8 @@ Here is a quick overview of what these files contain and the constraints they en
 
 - **Clean Log Principle:** Logs only meaningful architectural or feature work; routine file reads or searches are ignored.
 
+**Note:** In clause `16.3` of the `UNIVERSAL_RULES.md` document, the default language for the `DEVELOPMENT_LOG.md` file is set to **Turkish**. Feel free to change it according to your preference.
+
 ## Limitations & Drawbacks
 
 While this system has significantly smoothed my development workflow, it is not a silver bullet. Here are some honest limitations I experienced:
