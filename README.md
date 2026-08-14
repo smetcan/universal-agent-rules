@@ -1,6 +1,6 @@
 # AI Coding Agent Rules & Workflow System
 
-[🇹🇷 Türkçe](https://gemini.google.com/app/README_TR.md "null") | [🇬🇧 English](https://gemini.google.com/app/README.md "null")
+[🇹🇷 Türkçe](https://github.com/smetcan/universal-agent-rules/blob/main/README_TR.md) | [🇬🇧 English](https://github.com/smetcan/universal-agent-rules/blob/main/README.md)
 
 Rule and workflow documents developed out of my own needs to govern and discipline AI coding agents (Gemini, Claude, Cursor, Copilot, etc.) across various software projects.
 
